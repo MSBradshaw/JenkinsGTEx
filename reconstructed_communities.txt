@@ -1,0 +1,262 @@
+['Testis']
+HP:0004375	Neoplasm of the nervous system	"A tumor (abnormal growth of tissue) of the nervous system." [HPO:probinson]
+HP:0011976	Elevated urinary catecholamines	"An increased concentration of catecholamine in the urine." [HPO:probinson]
+ALK
+LMO1
+LIN28B
+TOP2A
+
+['Skin - Not Sun Exposed (Suprapubic)', 'Skin - Sun Exposed (Lower leg)']
+HP:0000220	Velopharyngeal insufficiency	"Inability of velopharyngeal sphincter to sufficiently separate the nasal cavity from the oral cavity during speech." [DDD:jhurst]
+HP:0004395	Malnutrition	
+HP:0200136	Oral-pharyngeal dysphagia	
+HP:0010294	Palate fistula	"A fistula which connects the oral cavity and the pharyngeal area via the aspects of the soft palate." [HPO:probinson]
+HP:0006292	Abnormality of dental eruption	"An abnormality of tooth eruption." [HPO:ibailleulforestier]
+HP:0011438	Maternal teratogenic exposure	"A medical history of exposure of the mother of a child or fetus to a teratogenic substance during pregnancy." [DDD:hfirth]
+HP:0040115	Abnormality of the Eustachian tube	
+HP:0006332	Supernumerary maxillary incisor	"The presence of a supernumerary, i.e., extra, maxillary incisor, either the primary maxillary incisor or the permanent maxillary incisor." [HPO:ibailleulforestier]
+HP:0006342	Peg-shaped maxillary lateral incisors	"Peg-shaped upper lateral secondary incisor tooth." [HPO:ibailleulforestier]
+HP:0005324	Disturbance of facial expression	"An abnormality of the gestures or movements executed with the facial muscles with which emotions such as fear, joy, sadness, surprise, and disgust can be expressed." [DDD:cwright]
+HP:0011044	Abnormal number of permanent teeth	"The presence of an altered number of of permanent teeth." [HPO:ibailleulforestier]
+HP:0009088	Speech articulation difficulties	"Impairment in the physical production of speech sounds." [HPO:probinson]
+HP:0000419	Abnormality of the nasal septum	"An abnormality of the nasal septum." [HPO:probinson]
+HP:0200153	Agenesis of lateral incisor	
+HP:0100334	Unilateral cleft palate	
+HP:0100337	Bilateral cleft palate	"Nonmidline cleft palate on the left and right sides." [HPO:probinson]
+HP:0100336	Bilateral cleft lip	"A non-midline cleft of the upper lip on the left and right sides." [HPO:probinson]
+HP:0002744	Bilateral cleft lip and palate	"Cleft lip and cleft palate affecting both sides of the face." [HPO:probinson]
+HP:0045005	Neural tube defect	"A neural tube defect arises when the neural tube, the embryonic precursor of the brain and spinal cord, fails to close during neurulation. The cranial region (anencephaly) or the low spine (open spina bifida; myelomeningocele) are most commonly affected although, in the severe NTD craniorachischisis, almost the entire neural tube remains open, from midbrain to low spine." [HPO:probinson, PMID:19808787]
+HP:0007651	Ectropion of lower eyelids	
+HP:0009757	Intercrural pterygium	"A pterygium (or pterygia) in the intercrural (groin) region." [HPO:curators]
+HP:0100271	Hyponasal speech	"Hyponasal speech is when there is an abnormally reduced nasal airflow during speech often in a setting of nasal obstruction or congestion." [HPO:sdoelken]
+HP:0009754	Fibrous syngnathia	"Complete or nearly complete soft tissue fusion of the alveolar ridges." [PMID:19125428]
+HP:0009758	Pyramidal skinfold extending from the base to the top of the nails	"Pyramidal skinfold extending from the base to the top of the nails is a rare and distinctive anomaly seen in popliteal pterygia syndrome." [HPO:curators]
+HP:0012746	Thin toenail	"Toenail that appears thin when viewed on end." [HPO:probinson, PMID:19125433]
+HP:0006347	Microdontia of primary teeth	"Decreased size of the primary teeth." [HPO:ibailleulforestier]
+HP:0002296	Progressive hypotrichosis	"Progressively reduced or lacking hair growth." [HPO:curators]
+CDH1
+ARHGAP29
+DLG1
+DLX4
+IRF6
+MSX1
+NECTIN1
+
+['Testis']
+HP:0002235	Pili canaliculi	"Uncombable hair." [HPO:probinson]
+HP:0030056	Uncombable hair	"Hair that is disorderly, stands out from the scalp, and cannot be combed flat." []
+HP:0002552	Trichodysplasia	"Developmental dysplasia of the hair." [HPO:probinson]
+PADI3
+TGM3
+TCHH
+
+['Brain - Caudate (basal ganglia)', 'Brain - Nucleus accumbens (basal ganglia)']
+HP:0000016	Urinary retention	"Inability to completely empty the urinary bladder during the process of urination." [HPO:probinson]
+HP:0002203	Respiratory paralysis	"Inability to move the muscles of respiration." [HPO:probinson]
+HP:0009020	Exercise-induced muscle fatigue	"An abnormally increased tendency towards muscle fatigue induced by physical exercise." [HPO:curators]
+HP:0008153	Periodic hypokalemic paresis	"Episodes of muscle weakness associated with reduced levels of potassium in the blood." [HPO:probinson]
+HP:0011706	Second degree atrioventricular block	"An intermittent atrioventricular block with failure of some atrial impulses to conduct to the ventricles, i.e., some but not all atrial impulses are conducted through the atrioventricular node and trigger ventricular contraction." [DDD:dbrown, HPO:probinson]
+HP:0011785	Thyrotoxicosis with toxic multinodular goiter	
+HP:0011786	Thyrotoxicosis with toxic single thyroid nodule	
+HP:0100647	Graves disease	"An autoimmune disease where the thyroid is overactive, producing an excessive amount of thyroid hormones (a serious metabolic imbalance known as hyperthyroidism and thyrotoxicosis). This is caused by autoantibodies to the TSH-receptor (TSHR-Ab) that activate that TSH-receptor (TSHR), thereby stimulating thyroid hormone synthesis and secretion, and thyroid growth (causing a diffusely enlarged goiter). The resulting state of hyperthyroidism can cause a dramatic constellation of neuropsychological and physical signs and symptoms, which can severely compromise the patients." [HPO:sdoelken]
+HP:0003752	Episodic flaccid weakness	"Recurrent episodes of muscle flaccidity, a type of paralysis in which a muscle becomes soft and yields to passive stretching." [HPO:probinson]
+HP:0005165	Shortened PR interval	"Reduced time for the PR interval (beginning of the P wave to the beginning of the QRS complex). In adults, normal values are 120 to 200 ms long." [HPO:probinson]
+HP:0012726	Episodic hypokalemia	"An abnormally decreased potassium concentration in the blood occurring periodically with a return to normal between the episodes." [HPO:probinson]
+HP:0001722	High-output congestive heart failure	"A form of heart failure characterized by elevated cardiac output. This may be seen in patients with heart failure and hyperthyroidism, anemia, pregnancy, arteriovenous fistulae, and others." [HPO:curators]
+HP:0011964	Intermittent painful muscle spasms	"History of repeated intermittent involuntary muscle contractions that were painful." [HPO:probinson]
+HP:0012364	Decreased urinary potassium	"A decreased concentration of potassium(1+) in the urine." [HPO:probinson]
+HP:0031320	Cardiomyocyte mitochondrial proliferation	"An abnormal increase in the number of mitochondria per cardiac myocyte." []
+HP:0008285	Transient hypophosphatemia	
+HP:0011998	Postprandial hyperglycemia	"An increased concentration of glucose in the blood following a meal." [HPO:probinson]
+HP:3000005	Abnormality of masseter muscle	"An abnormality of a masseter muscle." [GOC:TermGenie]
+HP:0003694	Late-onset proximal muscle weakness	"Lack of strength of the proximal musculature occurring late in the clinical course." [HPO:curators]
+CACNA1S
+GABRA3
+KCNJ18
+
+['Pancreas']
+HP:0100890	Cyst of the ductus choledochus	
+HP:0012379	Abnormal enzyme/coenzyme activity	"An altered ability of any enzyme or their cofactors to act as catalysts. This term includes changes due to altered levels of an enzyme." [HPO:probinson, MP:0005584]
+HP:0011021	Abnormality of circulating enzyme level	
+HP:0002579	Gastrointestinal dysmotility	"Abnormal intestinal contractions, such as spasms and intestinal paralysis, related to the loss of the ability of the gut to coordinate muscular activity because of endogenous or exogenous causes." [HPO:probinson]
+HP:0030247	Splanchnic vein thrombosis	"The term splanchnic vein thrombosis encompasses Budd-Chiari syndrome (hepatic vein thrombosis), extrahepatic portal vein obstruction (EHPVO), and mesenteric vein thrombosis; the word splanchnic is used to refer to the visceral organs (of the abdominal cavity)." [HPO:probinson, PMID:20532730]
+HP:0100027	Recurrent pancreatitis	"A recurrent form of pancreatitis." [HPO:probinson]
+HP:0005213	Pancreatic calcification	"The presence of abnormal calcium deposition lesions in the pancreas." [HPO:probinson]
+HP:0005230	Biliary tract obstruction	"Obstruction affecting the biliary tree." [HPO:probinson]
+HP:0006280	Chronic pancreatitis	"A chronic form of pancreatitis." [HPO:probinson]
+HP:0030992	Abnormal pancreatic duct morphology	"Any structural anomaly of the pancreatic duct, which is the tubular structure that collects exocrine pancreatic secretions and transports them to the duodenum." [PMID:24265565]
+HP:0030994	Pancreas divisum	"A congenital anomaly of the pancreas that results from failed fusion of the dorsal and ventral ducts during embyological development. Three variants have been described: type 1 or classical divisum in which there is total failure of fusion; type 2 in which dorsal drainage is dominant in the absence of the duct of Wirsung; and type 3 or incomplete divisum where a small communicating branch is present." [PMID:24265565]
+HP:0012441	Sphincter of Oddi dyskinesia	"Reduced motility through the sphincter of Oddi, resulting in impedance of bile and pancreatic juice flow from the common bile duct into the duodenum." [HPO:probinson]
+HP:0006560	Biliary hyperplasia	"Hyperplasia of the biliary tree, as manifested by increased size of bile ducts, dilated lumen, and histologically by an increased number of epithelial cells or hyperplasia." [HPO:probinson]
+HP:0011980	Cholesterol gallstones	"Gallstones composed primarily of cholesterol, usually about 2-3 cm in length with an oval form and a yellow or green/brown color." [HPO:probinson, PMID:12950109, PMID:16844493]
+HP:0005206	Pancreatic pseudocyst	"Cyst-like space not lined by epithelium and contained within the pancreas. Pancreatic pseudocysts are often associated with pancreatitis." [HPO:probinson]
+HP:0008205	Insulin-dependent but ketosis-resistant diabetes	"Ketosis-resistant diabetes is a synonym for type II diabetes. This term thus refers to a form of type II diabetes in which patients are dependent on insulin." [HPO:probinson]
+CPA1
+CTRC
+PRSS1
+SPINK1
+
+['Testis']
+HP:0012205	Globozoospermia	"Any structural anomaly of the acrosome resulting in a round sperm head." [HPO:probinson, MP:0002686]
+SPATA16
+DPY19L2
+
+['Brain - Cerebellum', 'Brain - Frontal Cortex (BA9)', 'Brain - Cerebellar Hemisphere']
+HP:0003144	Increased serum serotonin	"A increased concentration of serotonin in the blood." [HPO:probinson]
+HP:0000721	Lack of spontaneous play	
+HP:0000758	Impaired use of nonverbal behaviors	"Reduced ability to use nonverbal behavior for communication, such as eye-to-eye gaze, facial expression, body posture, and gestures." [HPO:probinson]
+HP:0000728	Impaired ability to form peer relationships	
+HP:0000732	Inflexible adherence to routines or rituals	
+HP:0002332	Lack of peer relationships	
+NLGN4X
+NLGN3
+
+['Pituitary']
+HP:0000141	Amenorrhea	"Absence of menses for an interval of time equivalent to a total of more than (or equal to) 3 previous cycles or 6 months." [PMID:22594864]
+HP:0010627	Anterior pituitary hypoplasia	"Underdevelopment of the anterior pituitary gland." [DDD:spark, HPO:probinson]
+HP:0011787	Central hypothyroidism	"A type of hypothyroidism due to an insufficient stimulation of an otherwise normal thyroid gland. Central hypothyroidism is caused by either pituitary (secondary hypothyroidism) or hypothalamic (tertiary hypothyroidism) defects." [DDD:spark, PMID:18415684]
+HP:0004637	Decreased cervical spine mobility	
+HP:0008245	Pituitary hypothyroidism	"A type of hypothyroidism that results from a defect in thyroid-stimulating hormone secretion." [HPO:probinson]
+HP:0000839	Pituitary dwarfism	"A type of reduced stature with normal proportions related to dysfunction of the pituitary gland related to either an isolated defect in the secretion of growth hormone or to panhypopituitarism, i.e., a deficit of all the anterior pituitary hormones." [HPO:probinson]
+HP:0002920	Decreased circulating ACTH level	"An abnormal reduction in the concentration of corticotropin, also known as adrenocorticotropic hormone (ACTH), in the blood." [HPO:probinson]
+HP:0010626	Anterior pituitary agenesis	"Absence of the anterior pituitary gland resulting from a developmental defect." [DDD:spark, HPO:probinson, HPO:skoehler]
+HP:0040086	Abnormal prolactin level	
+HP:0009888	Abnormality of secondary sexual hair	"Abnormality of the growth of secondary sexual hair, which normally ensues during puberty. In males, secondary sexual hair usually comprises body hair, including underarm, abdominal, chest, and pubic hair. In females, secondary sexual hair usually comprises a lesser degree of body hair, most prominently underarm and pubic hair." [HPO:curators]
+HP:0012731	Ectopic anterior pituitary gland	"Abnormal anatomic location of the anterior pituitary gland." [HPO:probinson]
+HP:0100842	Septo-optic dysplasia	"Underdevelopment of the optic nerve and absence of the septum pellucidum." [HPO:sdoelken]
+HP:0011755	Ectopic posterior pituitary	"An abnormal anatomical location of the posterior lobe of the hypophysis, also known as the neurohypophysis. The posterior pituitary is normally present in the dorsal portion of the sella turcica, but when ectopic is usually near the median eminence. This defect is likely to be due to abnormal migration during embryogenesis." [DDD:spark, HPO:probinson]
+HP:0010538	Small sella turcica	"An abnormally small sella turcica." [HPO:curators]
+HP:0003799	Marked delay in bone age	
+HP:0100663	Synotia	"A congenital malformation characterized by the union or approximation of the ears in front of the neck, often accompanied by the absence or defective development of the lower jaw." [HPO:sdoelken]
+HP:0012287	Hypothalamic luteinizing hormone-releasing hormone deficiency	"Decreased secretion of luteinizing hormone-releasing hormone by the hypothalamus." [HPO:probinson]
+OTX2
+POU1F1
+PROP1
+SOX3
+HARS2
+LHX4
+LHX3
+
+['Adipose - Subcutaneous', 'Breast - Mammary Tissue', 'Adipose - Visceral (Omentum)']
+HP:0040215	Abnormal circulating insulin level	"An abnormal concentration of insulin in the blood." []
+HP:0003292	Decreased serum leptin	"A decreased concentration of leptin in the blood." [HPO:probinson, PMID:16932309]
+HP:0030812	Enlarged tonsils	"Increase in size of the tonsils, small collections of lymphoid tissue facing into the aerodigestive tract on either side of the back part of the throat." [HPO:probinson]
+HP:0030685	Decreased adiponectin level	"A reduced circulating concentration of adiponectin, a 30-kDa complement C1-related protein that is the most abundant secreted protein expressed in adipose tissue." [HPO:probinson]
+HP:0008993	Increased intraabdominal fat	"An abnormal increase in the amount of intraabdominal fat tissue." [HPO:curators]
+HP:0000831	Insulin-resistant diabetes mellitus	"A type of diabetes mellitus related not to lack of insulin but rather to lack of response to insulin on the part of the target tissues of insulin such as muscle, fat, and liver cells. This type of diabetes is typically associated with increases both in blood glucose concentrations as will as in fasting and postprandial serum insulin levels." [HPO:probinson, PMID:7706500]
+HP:0012881	Abnormality of the labia majora	"An anomaly of the outer labia." [HPO:probinson]
+HP:0009042	Marked muscular hypertrophy	"Severe hypertrophy (increase in size) of muscle cells." [HPO:curators]
+HP:0000468	Increased adipose tissue around the neck	"An increased amount of subcutaneous fat tissue around the neck." [HPO:probinson]
+HP:0009017	Loss of gluteal subcutaneous adipose tissue	"Loss (reduction of previously present) of subcutaneous adipose tissue in the gluteal region." [HPO:probinson]
+AKT2
+LIPE
+CIDEC
+
+['Testis', 'Thyroid']
+HP:0012570	Synovial sarcoma	"A type of mesenchymal tissue cell tumor that exhibits epithelial differentiation, which most frequently arises in the extremities." [HPO:probinson]
+SSX1
+SSX2
+
+['Testis']
+HP:0032192	Hydatidiform mole	"Hydatidiform mole (HM) is an aberrant human pregnancy with absence of, or abnormal embryonic development, hydropic degeneration of chorionic villi, and excessive proliferation of the trophoblast." [PMID:23232697, PMID:26421650]
+MEI1
+NLRP7
+KHDC3L
+
+['Adrenal Gland']
+HP:0000851	Congenital hypothyroidism	"A type of hypothyroidism with congenital onset." [HPO:probinson]
+HP:0004319	Decreased circulating aldosterone level	"Abnormally reduced levels of aldosterone." [DDD:spark, HPO:probinson]
+HP:0008163	Decreased circulating cortisol level	"Abnormally reduced concentration of cortisol in the blood." [HPO:probinson]
+HP:0007440	Generalized hyperpigmentation	
+HP:0001325	Hypoglycemic coma	
+HP:0002173	Hypoglycemic seizures	
+HP:0002153	Hyperkalemia	"An abnormally increased potassium concentration in the blood." [HPO:probinson]
+HP:0003154	Increased circulating ACTH level	"An abnormal increased in the concentration of corticotropin, also known as adrenocorticotropic hormone (ACTH), in the blood." [HPO:probinson]
+HP:0012605	Hypernatriuria	"An increased concentration of sodium(1+) in the urine." [Eurenomics:ewuehl]
+HP:0012432	Chronic fatigue	"Subjective feeling of tiredness characterized by a lack of energy and motivation that persists for six months or longer." [ORCID:0000-0001-5208-3432]
+HP:0030348	Increased circulating androgen level	"An elevation of the blood concentration of an androgen, that is, of a steroid hormone that controls development and maintenance of masculine characteristics. The androgens include testosterone and Dehydroepiandrosterone." [HPO:probinson]
+HP:0040085	Abnormal circulating aldosterone	
+HP:0030258	Hyperpigmented genitalia	"Localized or generalized increased genital pigmentation." []
+HP:0008258	Congenital adrenal hyperplasia	"A type of adrenal hyperplasia with congenital onset." [HPO:probinson]
+HP:0000840	Adrenogenital syndrome	"Adrenogenital syndrome is also known as congenital adrenal hyperplasia, which results from disorders of steroid hormone production in the adrenal glands leading to a deficiency of cortisol. The pituitary gland reacts by increased secretion of corticotropin, which in turn causes the adrenal glands to overproduce certain intermediary hormones which have testosterone-like effects." [HPO:probinson]
+HP:0011739	Dexamethasone-suppressible primary hyperaldosteronism	"A form of primary hyperaldosteronism in which the overproduction of aldosterone can be suppressed by the administration of dexamethasone." [DDD:spark, HPO:probinson]
+HP:0011742	Ectopic adrenal gland	"Abnormal anatomical location of the adrenal gland." [DDD:spark]
+HP:0011105	Hypervolemia	"An increase in the amount of intravascular fluid, particularly in the volume of the circulating blood." [HPO:probinson]
+HP:0011746	Secretory adrenocortical adenoma	"An hormonally active adrenocortical adenoma, that is, an adenoma that secretes excessive amounts of adrenal hormones." [DDD:spark]
+HP:0011363	Abnormality of hair growth rate	"Hair whose growth rate deviates from the norm." [DDD:cmoss]
+HP:0002805	Accelerated bone age after puberty	
+HP:0008185	Precocious puberty in males	"The onset of puberty before the age of 9 years in boys." [HPO:curators]
+HP:0012412	Premature adrenarche	"Onset of adrenarche at an earlier age than usual." [HPO:probinson]
+HP:0100618	Leydig cell neoplasia	"The presence of a neoplasm of the testis with origin in a Leydig cell." [HPO:probinson]
+HP:0031074	Abnormal response to ACTH stimulation test	"An anomolous response to stimulation by adminstration of the adrenocorticotropic hormone (ACTH). ACTH stimulation normally stimulates the adrenal glands to release cortisol and adrenaline." []
+HP:0011043	Abnormality of circulating adrenocorticotropin level	"An abnormal concentration of corticotropin in the blood." [HPO:probinson]
+HP:0031076	Impaired cortisol response to insulin stimulation test	"Failure of cortisol levels to respond adequately (by increasing) to the insulin tolerance test (ITT)." []
+HP:0025451	Testicular adrenal rest tumor	"Testicular adrenal rest tumor (TART) is a abenign tumor of the testis. TART generally occurs multiply and bilaterally within the rete testis. Histologically, TART resemble adrenocortical tissue, which led to the name. The tumous are not encapsulated and consist of sheets or confluent cords of large polygonal cells with abundant eosinophilic cytoplasm." [PMID:19956703]
+HP:0031214	Decreased circulating dehydroepiandrosterone level	A reduced concentration of dehydroepiandrosterone in the blood. dehydroepiandrosterone is a weak androgen produced by the adrenal glands in both males and females.
+HP:0012734	Ketotic hypoglycemia	"Low blood glucose is accompanied by elevated levels of ketone bodies in the body." [HPO:probinson]
+CYP11B1
+TXNRD2
+MC2R
+SLC16A1
+STAR
+MRAP
+NNT
+
+['Thyroid']
+HP:0000034	Hydrocele testis	"Accumulation of clear fluid in the between the layers of membrane (tunica vaginalis) surrounding the testis." [HPO:probinson]
+HP:0001015	Prominent superficial veins	"A condition in which superficial veins (i.e., veins just under the skin) are more conspicuous or noticable than normal." []
+HP:0001055	Erysipelas	"Increased susceptibility to erysipelas, as manifested by a medical history of repeated episodes of erysipelas, which is a superficial infection of the skin, typically involving the lymphatic system." [HPO:probinson]
+HP:0001785	Ankle swelling	
+HP:0003550	Predominantly lower limb lymphedema	"Localized fluid retention and tissue swelling caused by a compromised lymphatic system, affecting mainly the legs." [HPO:probinson]
+HP:0032344	Upslanting toenail	"Upturned concavity of toenails." []
+HP:0007448	Hyperkeratosis over edematous areas	
+HP:0003759	Hypoplasia of lymphatic vessels	"Congenital underdevelopment of lymph vessels." [HPO:probinson]
+HP:0200058	Angiosarcoma	
+FLT4
+VEGFC
+
+['Testis']
+HP:0032558	Absent sperm flagella	"Sperm cells lacking flagella." [PMID:30867909]
+HP:0032559	Short sperm flagella	"Sperm cells with abnormally short flagella." [PMID:30867909]
+HP:0032560	Coiled sperm flagella	"Sperm cells whose flagella are twisted (coiled)." [PMID:28552195]
+ARMC2
+QRICH2
+WDR66
+CFAP43
+CFAP44
+FSIP2
+
+['Heart - Atrial Appendage']
+HP:0011499	Mydriasis	"Abnormal dilatation of the iris." [DDD:ncarter]
+HP:0030786	Photopsia	"Perceived flashes of light." [HPO:probinson, PMID:10506812]
+HP:0011524	Iris melanoma	"Malignant tumor of melanocytes affecting the iris." [DDD:ncarter]
+HP:0030800	Abnormal visual accommodation	"An anomaly in the process of visual accommodation, which is the process of adjustment of the eye to enable sharp vision of objects at different distances. Accommodation is mediated by contraction of the ciliary muscles, which alter the convexity of the lens and, consequently, its refractive power." [HPO:probinson]
+HP:0012054	Choroidal melanoma	"Malignant tumor of melanocytes of the choroid. The classic appearance of choroidal melanoma is a pigmented dome-shaped or collar button-shaped tumor with an associated exudative retinal detachment. Choroidal melanoma is usually pigmented, but can be variably pigmented and even amelanotic (non-pigmented)." [HPO:probinson, PMID:22557869]
+HP:0012055	Ciliary body melanoma	"Malignant tumor of melanocytes of the ciliary body." [HPO:probinson]
+HP:0200026	Ocular pain	"An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the eye." []
+HP:0000539	Abnormality of refraction	"An abnormality in the process of focusing of light by the eye in order to produce a sharp image on the retina." [HPO:probinson]
+HP:0012508	Metamorphopsia	"A visual anomaly in which images appear distorted. A grid of straight lines appears wavy and parts of the grid may appear blank." [HPO:probinson]
+HP:0007902	Vitreous hemorrhage	"Bleeding within the vitreous compartment of the eye." [DDD:akelly, PMID:16882398]
+HP:0007716	Uveal melanoma	"A malignant melanoma originating within the eye. The tumor originates from the melanocytes in the uvea (which comprises the iris, ciliary body, and choroid)." [HPO:curators]
+HP:0010920	Zonular cataract	"Zonular cataracts are defined to be cataracts that affect specific regions of the lens." [HPO:probinson, HPO:vkumar, PMID:18035564]
+HP:0008494	Inferior lens subluxation	"Partial displacement of the lens in the inferior direction." [HPO:probinson]
+HP:0030078	Lung adenocarcinoma	
+HP:0003529	Parathormone-independent increased renal tubular calcium reabsorption	"An increase in the reabsorption of calcium by the renal tubulus that is not associated with increased parathormone levels." [HPO:probinson, PMID:23802516]
+BAP1
+GJA3
+GNA11
+GNAQ
+CYSLTR2
+
+['Testis']
+HP:0012208	Nonmotile sperm	"A lack of mobility of ejaculated sperm." [HPO:probinson]
+HP:0008669	Abnormal spermatogenesis	"Incomplete maturation or aberrant formation of the male gametes." [HPO:probinson, MP:0001156]
+HP:0012869	Acephalic spermatozoa	"Spermatozoa with very small cranial ends devoid of any nuclear material, that is, lacking a typical sperm head." [HPO:probinson, PMID:10402395]
+HP:0012867	Sperm mid-piece anomaly	"A structural abnormality of the sperm mid-piece." [HPO:22198630, HPO:probinson]
+SUN5
+PMFBP1
+CATSPER1
+CATSPER2
+STRC
+TSGA10
+

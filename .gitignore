@@ -1,0 +1,7 @@
+.idea/
+GTEx/
+Jenkins-raw/
+Jenkins/
+TissueSpecificGenes/
+venv/
+*.pickle
